@@ -1,0 +1,15 @@
+Message 1 (cold open):
+"Hi, I'm Raj — software engineering student from Bangalore. I came across Aaditi Physio & Rehab on Google and saw your 182 five-star reviews with Dr. Aaditi. I built a premium sample website for your clinic as a project — already put your actual details, reviews and address in it. Can I share the link?"
+
+Message 2 (after they say yes):
+"Here it is: https://basavarajbillur000.github.io/aaditi-physio-site/
+I used your real reviews, specializations and clinic address. Let me know what you think."
+
+Message 3 (after positive reaction):
+"Glad you liked it Doctor. I can hand this over fully — your own domain, everything customized. One time charge of ₹8,000, no monthly fees. You own it completely."
+
+Objection handler (if they say too expensive):
+"Doctor I understand. A proper web agency would charge ₹25,000–₹40,000 for a premium website like this. I'm doing this to build my portfolio, so I'm keeping it fair. If even 2 new patients find you through this website, you've recovered the cost in one day."
+
+Follow-up (next morning if no reply):
+"Good morning Doctor. Just checking if you had any thoughts on the website."
