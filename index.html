@@ -643,12 +643,12 @@
       const phone = document.getElementById('enq-phone').value.trim();
       const service = document.getElementById('enq-service').value.trim();
       if (!name || !phone || !service) {
-        alert('Please complete all fields.');
+        alert('Please complete all fields before submitting.');
         return;
       }
-      const message = \`Hi Dr. Bijay Mohan Jha, I'd like to book an assessment.\\n\\nName: \${name}\\nContact: \${phone}\\nCondition: \${service}\`;
+      const message = `Hi Dr. Bijay Mohan Jha, I'd like to book an assessment.\n\nName: ${name}\nContact: ${phone}\nCondition: ${service}`;
       const encoded = encodeURIComponent(message);
-      window.open(\`https://wa.me/919845233815?text=\${encoded}\`, '_blank');
+      window.open(`https://wa.me/919845233815?text=${encoded}`, '_blank');
     }
   </script>
 </body>
