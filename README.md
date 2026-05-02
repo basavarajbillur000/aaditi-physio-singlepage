@@ -3,7 +3,7 @@
 A premium, high-converting single-page website built for Aaditi Physiotherapy and Rehabilitation Center.
 
 ## 🌐 Live Website
-**[https://basavarajbillur000.github.io/aaditi-physio-site/](https://basavarajbillur000.github.io/aaditi-physio-site/)**
+**[https://basavarajbillur000.github.io/aaditi-physio-singlepage/](https://basavarajbillur000.github.io/aaditi-physio-singlepage/)**
 
 ## Details
 - **Location:** JP Nagar, 6th Phase, Bangalore
